@@ -11,7 +11,7 @@ import lombok.Setter;
 @Setter
 
 public class Caminhao extends Veiculo{
-    private int id;
+    private long id;
     private int eixos;
 
 }
